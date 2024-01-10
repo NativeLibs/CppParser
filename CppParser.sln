@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CppParser", "CppParser\CppParser.csproj", "{5B98A533-18B1-4AD0-B573-9D349A3CE74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CppParser.Tests", "CppParser.Tests\CppParser.Tests.csproj", "{7B302B08-1AF5-4B3D-8DB1-AA646E0E4A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B98A533-18B1-4AD0-B573-9D349A3CE74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B98A533-18B1-4AD0-B573-9D349A3CE74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B98A533-18B1-4AD0-B573-9D349A3CE74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B98A533-18B1-4AD0-B573-9D349A3CE74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B302B08-1AF5-4B3D-8DB1-AA646E0E4A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B302B08-1AF5-4B3D-8DB1-AA646E0E4A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B302B08-1AF5-4B3D-8DB1-AA646E0E4A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B302B08-1AF5-4B3D-8DB1-AA646E0E4A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176A0C8E-B799-4DD5-A36F-ED6C81E602D8}
+	EndGlobalSection
+EndGlobal
